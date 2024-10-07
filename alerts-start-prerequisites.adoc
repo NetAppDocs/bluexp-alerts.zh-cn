@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-prerequisites.html 
+keywords: what are bluexp alerts requirements, bluexp alerts, alerts prerequisites 
+summary: 通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用BlueXP  警报。 
+---
+= BlueXP  警报前提条件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/get-started/
+
+
+[role="lead"]
+通过验证您的操作环境是否已准备就绪、开始使用BlueXP  警报。
+
+要使用BlueXP  警报、您需要满足以下前提条件：
+
+* ONTAP 9 10及更高版本。必须在BlueXP  画布中发现内部工作环境。
++
+** 集群管理员ONTAP权限
++
+无需在BlueXP  电子钱包中输入许可证。
+
+
+
+* 在BlueXP中：
++
+** 使用NetApp内部NAS或SAN存储的BlueXP  工作环境
+** 必须在BlueXP  中为内部区域设置BlueXP  连接器。请参阅 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP文档以配置连接器"^]。
++
+如果从BlueXP  Connector中删除某个集群、则与该集群相关的警报将保留90天。此外、如果您更改Connector、警报将与原始集群和Connector保持关联90天。如果返回到原始连接器、您将再次看到这些警报。
+
+** 至少有一个活动连接器连接到内部ONTAP集群的BlueXP  组织。所有源环境和工作环境都必须位于同一个BlueXP  组织中。
+** 该组织中使用组织管理Privileges发现资源的BlueXP  用户
+** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["标准BlueXP要求"^]
+
+
+

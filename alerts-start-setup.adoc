@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-setup.html 
+keywords: bluexp, alerts, ontap, netapp 
+summary: 要使用BlueXP  警报、请执行几个步骤进行设置。 
+---
+= 设置BlueXP  警报
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+要使用BlueXP  警报、请执行几个步骤进行设置。
+
+开始之前、请查看link:alerts-start-prerequisites.html["前提条件"]以确保您的环境已准备就绪。
+
+请查看。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["标准BlueXP要求"^]
+
+
+
+== 访问集群资源
+
+要查看警报、登录用户必须属于BlueXP  组织、并且应具有对集群资源的所需访问权限。
+
+
+
+== 创建BlueXP Connector
+
+您应联系您的NetApp销售代表试用或使用此服务。然后、当您使用BlueXP  连接器时、它将包括用于警报服务的相应功能。
+
+要在使用此服务之前在BlueXP  中创建连接器，请参阅BlueXP  文档中描述的 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建BlueXP Connector"^]。
+
+设置连接器并添加工作环境后、请等待大约15分钟以进行初始发现。

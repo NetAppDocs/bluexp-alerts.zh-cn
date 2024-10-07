@@ -1,0 +1,174 @@
+---
+sidebar: sidebar 
+permalink: alerts-use-dashboard.html 
+keywords: alerts, alerts dashboard, ontap, netapp, bluexp, cluster,capacity, protection, security 
+summary: BlueXP  警报服务可提供有关ONTAP环境运行状况的概览信息。您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围、确定可用性并识别安全风险。 
+---
+= 使用警报列表页面查看ONTAP存储中的潜在风险
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+BlueXP  警报服务可提供有关ONTAP环境中潜在风险的概览信息。您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围、确定可用性并识别安全风险。
+
+BlueXP  警报服务可提供有关以下严重程度和影响方面的信息：
+
+* *严重性*：严重、警告、信息性
+* *影响区域*：容量、性能、可用性、保护、安全性、配置
+
+
+
+
+== 您可能会看到的警报
+
+以下是服务显示的一些警报。
+
+EMS严重性通过以下方式映射到BlueXP  警报服务严重性：
+
+[cols="40,40"]
+|===
+| EMS警报严重性： | BlueXP  警报严重性： 
+
+
+| 警报或紧急情况 | 严重 
+
+
+| 错误 | 无 
+
+
+| 低 | 警告 
+
+
+| 通知 | 信息性 
+
+
+| 信息性 | 信息性 
+|===
+.警报列表
+[%collapsible]
+====
+严重严重性警报：
+
+* 聚合未处于联机状态
+* 磁盘故障
+* SnapMirror滞后时间较长
+* 卷状态脱机
+* 已用卷百分比违规
+
+
+EMS警报：
+
+* 防病毒服务器忙
+* AWS凭据未初始化
+* 无法访问云层
+* 磁盘停止服务
+* 已发现磁盘架电源
+* 已卸下磁盘架电源
+* FabricPool镜像复制重新同步已完成
+* 已接近FabricPool空间使用量限制
+* 已达到FabricPool空间使用量限制
+* 已超过FC目标端口命令
+* 存储池的返回失败
+* HA互连已关闭
+* LUN已销毁
+* LUN脱机
+* 主装置风扇出现故障
+* 主装置风扇处于警告状态
+* 已超过每个用户的最大会话数
+* 已超过每个文件的最大打开时间
+* 已禁用MetroCluster自动计划外切换
+* MetroCluster 监控
+* NetBIOS名称冲突
+* NFSv4池资源耗尽
+* 节点崩溃
+* 节点根卷空间不足
+* 不存在的管理共享
+* 无响应防病毒服务器
+* 没有已注册的扫描引擎
+* 无Vscan连接
+* NVMe命名空间已销毁
+* NVMe命名空间脱机
+* NVMe命名空间联机
+* NVMe-oF许可证宽限期处于活动状态
+* NVMe-oF许可证宽限期已过期
+* NVMe-oF许可证宽限期已开始
+* NVRAM电池电量低
+* 对象存储主机无法解解解配置
+* 对象存储集群间LIF已关闭
+* 对象存储签名不匹配
+* QoS监控内存已耗尽
+* 检测到勒索软件活动
+* 重新定位存储池失败
+* 已添加ONTAP调解器
+* 无法访问ONTAP调解器
+* 无法访问ONTAP调解器
+* 已删除ONTAP调解器
+* re其他 超时
+* SAN的"主动-主动"状态已更改
+* 服务处理器检测信号丢失
+* 服务处理器检测信号已停止
+* 服务处理器脱机
+* 未配置服务处理器
+* 卷影复制失败
+* FC目标适配器中的SFP接收低功耗
+* FC目标适配器中的SFP传输低功耗
+* 磁盘架风扇出现故障
+* SMBC CA证书已过期
+* SMBC CA证书即将过期
+* SMBC客户端证书已过期
+* SMBC客户端证书即将过期
+* SMBC关系不同步
+* SMBC服务器证书已过期
+* SMBC服务器证书即将过期
+* SnapMirror关系不同步
+* 存储交换机电源出现故障
+* Storage VM反勒索软件监控
+* Storage VM停止成功
+* 由于主装置风扇故障、系统无法运行
+* CIFS身份验证过多
+* 未分配的磁盘
+* 未授权用户访问管理员共享
+* 检测到病毒
+* 卷反勒索软件监控
+* 卷自动调整大小成功
+* 卷脱机
+* 卷受限
+
+
+====
+有关ONTAP警报的详细信息，请参阅上的ONTAP文档和System Manager洞察 https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["System Manager深入了解容量、安全性和配置问题"^]。
+
+
+
+== 查看ONTAP存储问题
+
+.步骤
+. 从BlueXP  左侧导航栏中，选择*Monitoring*>*Alerts*。
++
+发现后、"Alerts"(警报)列表页面将显示ONTAP环境中的警报列表。
+
++
+发生事件与BlueXP  警报显示事件之间可能存在延迟。
+
+. 在警报列表页面中、您可以查看并执行以下任一操作：
++
+** 通过单击列的向上或向下箭头更改排序顺序。
+** 更改列中的筛选器以仅显示所需信息。
++
+
+TIP: 例如、您可能只希望查看与容量相关的警报。要执行此操作，请单击影响区域列上的筛选器图标，选择*Capacity *，然后选择*Apply*。
+
++
+image:alerts-dashboard-capacity-filter.png["显示影响区域筛选器的警报页面"]
+
+** 下载包含警报信息的CSV文件。
++
+您最多可以下载1000个警报。此文件包含基于所设置筛选器的数据。
+
+** 选择一个警报并深入查看该集群上的警报详细信息。请参阅。 link://alerts-use-alerts.html["查看警报详细信息"]
+
+
+
