@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-alerts.html 
 keywords: netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
-summary: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、可用性和安全性相关的问题或潜在风险。借助此服务、您可以使用NetApp系统管理器深入了解详细信息。 
+summary: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、可用性和安全性相关的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解详细信息。 
 ---
 = 了解BlueXP  警报
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中�
 
 
 [role="lead"]
-BlueXP  警报是一项服务、通过该服务、您可以使用标准BlueXP  连接器查看NetApp内部ONTAP环境中的问题或潜在风险。借助此服务、您可以使用NetApp系统管理器深入了解详细信息。
+BlueXP  警报是一项服务、通过该服务、您可以使用标准BlueXP  连接器查看NetApp内部ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解详细信息。
 
 
 

@@ -1,9 +1,9 @@
 ---
 indexpage:
   title: BlueXP  警报文档
-  summary: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中的问题或潜在风险。借助此服务、您可以使用NetApp系统管理器深入了解警报详细信息并查看集群信息。
+  summary: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解警报详细信息并查看集群信息。
   keywords: bluexp, ONTAP, alerts, system manager
-  lead: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、保护、可用性和安全性相关的问题或潜在风险。通过此服务、您可以深入了解警报详细信息并查看链接到NetApp系统管理器的集群信息。
+  lead: BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、保护、可用性和安全性相关的问题或潜在风险。通过此服务、您可以深入了解警报详细信息并查看链接到ONTAP系统管理器的集群信息。
   tiles:
   - title: 开始使用
     links:

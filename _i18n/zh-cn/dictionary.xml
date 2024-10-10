@@ -228,9 +228,7 @@
   <block id="bada944ff97ccc6bdb03a0eefe48c7b0" category="list-text"><block ref="100690e5bc3f66329368008c6eec575d" category="inline-link-macro-rx"></block>(英文)</block>
   <block id="7bd1999eaf2368f9b8f1dd868f9e9d4d" category="inline-link-macro">查看System Manager中链接的警报详细信息</block>
   <block id="71abcd292cc325c2b4ac5f4d9147224d" category="list-text"><block ref="71abcd292cc325c2b4ac5f4d9147224d" category="inline-link-macro-rx"></block></block>
-  <block id="601af684c92efdad54a57f36be1e84f2" category="summary">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、可用性和安全性相关的问题或潜在风险。借助此服务、您可以使用NetApp系统管理器深入了解详细信息。</block>
   <block id="d0f2765e5de3103a5c432ec160dff29f" category="doc">了解BlueXP  警报</block>
-  <block id="6babf54700fe3eb9bf3ca54fc0d1fb18" category="paragraph">BlueXP  警报是一项服务、通过该服务、您可以使用标准BlueXP  连接器查看NetApp内部ONTAP环境中的问题或潜在风险。借助此服务、您可以使用NetApp系统管理器深入了解详细信息。</block>
   <block id="a9dc86219b3c5f9f2b66e9d377f29a7f" category="section-title">您可以对BlueXP  警报执行哪些操作</block>
   <block id="c455bdd92f069a5115cf088b2dabcacc" category="paragraph">BlueXP  警报服务可帮助您随时了解ONTAP存储环境中的风险或潜在风险。此服务会向您显示一些非EMS警报和一些EMS警报。BlueXP  警报服务可提供有关以下严重程度和影响方面的信息：</block>
   <block id="6f8378cd5e88ebcc5f99f344c6d22de6" category="list-text">*影响区域*：容量、性能、保护、可用性、安全性、配置</block>
@@ -282,9 +280,7 @@
   <block id="335c0f5b63e966d180738ce07c85dc3f" category="list-text">*警报详细信息*：您可以深入了解警报详细信息并查找建议。</block>
   <block id="963a0580f34d0876630a188f398484de" category="list-text">*查看链接到System Manager*的集群详细信息：通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到NetApp System Manager的详细信息。</block>
   <block id="52db2fc7f4de1af0e1245bc3f891ce57" category="paragraph"><block ref="094e829cc75a913d98050fa15a3d0c12" category="inline-link-rx"></block>(英文)</block>
-  <block id="8a158ef2e09da6cbce36c63b2be71df9" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、保护、可用性和安全性相关的问题或潜在风险。通过此服务、您可以深入了解警报详细信息并查看链接到NetApp系统管理器的集群信息。</block>
   <block id="65bb7ee15d3b1e07670d846d217c47d4" category="sidebar">BlueXP  警报文档</block>
-  <block id="9b28031891e79a06f16c64fa003290dd" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中的问题或潜在风险。借助此服务、您可以使用NetApp系统管理器深入了解警报详细信息并查看集群信息。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
   <block id="0008349dbba5d63a11fcca4bd3de0c2d" category="sidebar">BlueXP  警报中的新增功能</block>
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">前提条件</block>
@@ -299,4 +295,8 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
   <block id="17b76c30a93a18ec82fdbf45ed64d83a" category="sidebar">查看ONTAP存储中的潜在风险</block>
   <block id="167683e364859c21a89f3dbb8bbd29b4" category="sidebar">查看存储环境中的警报</block>
+  <block id="d001ed61ced91220de514dec2a80b08b" category="summary">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、可用性和安全性相关的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解详细信息。</block>
+  <block id="864130dd293829108709c2327b91d445" category="paragraph">BlueXP  警报是一项服务、通过该服务、您可以使用标准BlueXP  连接器查看NetApp内部ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解详细信息。</block>
+  <block id="a138b80b6963a03eb4d692dbdc025e3e" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、保护、可用性和安全性相关的问题或潜在风险。通过此服务、您可以深入了解警报详细信息并查看链接到ONTAP系统管理器的集群信息。</block>
+  <block id="164a30a809f9f6485699e82e4c81d60c" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解警报详细信息并查看集群信息。</block>
 </blocks>
