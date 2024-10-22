@@ -54,7 +54,7 @@ BlueXP  警报服务需要NetApp ONTAP 9 10或更高版本的许可证。
 
 您不需要拥有此服务的试用许可证。
 
-此服务只能在BlueXP  标准(公共)模式下部署。有关详细信息，请参见 link:alerts-start-licenses.html["设置许可"]。
+此服务只能在BlueXP  标准(公共)模式下部署。
 
 
 

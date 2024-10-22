@@ -242,8 +242,6 @@
   <block id="82cf93c6b22e730b302286dee304e8cc" category="paragraph">完整版本的BlueXP  警报可与NetApp ONTAP许可证结合使用。</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">许可</block>
   <block id="1b083639d38de1b116aea6c5558968ec" category="paragraph">BlueXP  警报服务需要NetApp ONTAP 9 10或更高版本的许可证。</block>
-  <block id="e907b41f5f3d7332bee5a43fbbf78a08" category="inline-link-macro">设置许可</block>
-  <block id="d69945d07ffe69d68b278fa3f6ee11ac" category="paragraph">此服务只能在BlueXP  标准(公共)模式下部署。有关详细信息，请参见 <block ref="271bc4c83b3d27b2a7fc60eb23418118" category="inline-link-macro-rx"></block>。</block>
   <block id="55a90d444e30ddc01cd8a8da27cd9018" category="section-title">BlueXP  警报的工作原理</block>
   <block id="3e552726fea4952e3fd397f2cbf69243" category="paragraph">BlueXP  警报服务是BlueXP  的核心组件。BlueXP  警报服务可监控ONTAP集群并从ONTAP接收警报数据。</block>
   <block id="78097856f6f945c9619179338ebbf597" category="paragraph">BlueXP  警报仅在BlueXP  SaaS环境中可用。在本地连接器UI中不可用。</block>
@@ -299,4 +297,5 @@
   <block id="864130dd293829108709c2327b91d445" category="paragraph">BlueXP  警报是一项服务、通过该服务、您可以使用标准BlueXP  连接器查看NetApp内部ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解详细信息。</block>
   <block id="a138b80b6963a03eb4d692dbdc025e3e" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、保护、可用性和安全性相关的问题或潜在风险。通过此服务、您可以深入了解警报详细信息并查看链接到ONTAP系统管理器的集群信息。</block>
   <block id="164a30a809f9f6485699e82e4c81d60c" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解警报详细信息并查看集群信息。</block>
+  <block id="83e69dcb76418af8dc10c3db810ded80" category="paragraph">此服务只能在BlueXP  标准(公共)模式下部署。</block>
 </blocks>
