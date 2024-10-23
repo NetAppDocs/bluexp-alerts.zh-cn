@@ -76,8 +76,6 @@
   <block id="0d5e44db30a371573d3409dc5db80551" category="paragraph">设置服务后、接下来可以执行以下操作。</block>
   <block id="a68cc2b6c1c2c8b9e9f66b53fa448022" category="inline-link-macro">在"Alerts"列表页面上查看存储问题和潜在风险</block>
   <block id="dd0992661d3a920b16a7c2795b9cd366" category="list-text"><block ref="24e8eb073a02ee555a5d57d98ab7c836" category="inline-link-macro-rx"></block>(英文)</block>
-  <block id="579d60d61ce2f9d71ba59082012dead5" category="inline-link-macro">在System Manager中查看警报详细信息</block>
-  <block id="d94cf384f933380c78e093e040f609eb" category="list-text"><block ref="3d6f3cd0de5abac441f097288a1f7790" category="inline-link-macro-rx"></block>(英文)</block>
   <block id="5915cf352c4b3db1b090b435f74ebbf7" category="summary">要使用BlueXP  警报、请执行几个步骤进行设置。</block>
   <block id="ac042029b29c3082b76187f091b8b233" category="doc">设置BlueXP  警报</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">前提条件</block>
@@ -91,7 +89,6 @@
   <block id="780faaa43a4865ecb4711d9dd7329a52" category="inline-link">如何创建BlueXP Connector</block>
   <block id="41c2dbad4db714d9e8ccd5fdc1897747" category="paragraph">要在使用此服务之前在BlueXP  中创建连接器，请参阅BlueXP  文档中描述的<block ref="32b465f89042a610ea5ceeabf276817a" category="inline-link-rx"></block>。</block>
   <block id="3d6d3177ff7ea69049f4995141770c7f" category="paragraph">设置连接器并添加工作环境后、请等待大约15分钟以进行初始发现。</block>
-  <block id="195a0f59ca144ee9fd9cc1a8049876e1" category="summary">通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到BlueXP  系统管理器的详细信息。</block>
   <block id="ef254d2341e271918241f2d6a1999fa1" category="doc">查看ONTAP存储环境中的警报详细信息</block>
   <block id="ecd629c044becad9a5d589bf2ce76f50" category="paragraph">通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报并深入了解详细信息。</block>
   <block id="9f64c529078a13eebc43993d1ac578d4" category="section-title">查看警报详细信息</block>
@@ -100,11 +97,7 @@
   <block id="6d6b711c0023f5df6869f9738b247408" category="paragraph"><block ref="6d6b711c0023f5df6869f9738b247408" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e343346ee75f85e1816cdd01ca56792d" category="list-text">向下滚动以查找建议的更正操作。</block>
   <block id="eb8303fe9491419d4ead82bfa9608f89" category="list-text">向下滚动以查找与发出警报的对象相关的其他警报。</block>
-  <block id="ae1f9cff7e71c809803a6163b385b12c" category="section-title">在BlueXP  系统管理器中查看有关集群的详细信息</block>
   <block id="35b395a0db37565fc4e5873d0e39269f" category="list-text">在警报中、单击页面顶部的集群名称。</block>
-  <block id="5bdd3a1d76a98c1ad8436adb2bc5d4df" category="paragraph">BlueXP  系统管理器现在可显示有关集群的信息。</block>
-  <block id="44fb0de1beabcbb929ab5a8c7a682a82" category="inline-image-macro">显示集群信息的BlueXP  系统管理器</block>
-  <block id="f4756e753473f1c27ad6091d356f962d" category="paragraph"><block ref="f4756e753473f1c27ad6091d356f962d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e79231cbbb45803a3389e7fb863313c6" category="summary">BlueXP  警报服务可提供有关ONTAP环境运行状况的概览信息。您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围、确定可用性并识别安全风险。</block>
   <block id="2eb867d8ce3791fb94cfdab8c6ac78a0" category="doc">使用警报列表页面查看ONTAP存储中的潜在风险</block>
   <block id="6e2e3b48eeb17e8c0e79ae15b55e3fdf" category="paragraph">BlueXP  警报服务可提供有关ONTAP环境中潜在风险的概览信息。您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围、确定可用性并识别安全风险。</block>
@@ -223,11 +216,8 @@
   <block id="4911a76281812d9019d7ede766d4ea02" category="list-text">选择一个警报并深入查看该集群上的警报详细信息。请参阅。 <block ref="b1ec3ab83585d2abf1c96eb1dde7ca35" category="inline-link-macro-rx"></block></block>
   <block id="af5d0c21da9f42662eda147aaaa3511a" category="summary">使用BlueXP  警报、您可以查看工作负载运行状况并保护工作负载。</block>
   <block id="6ba57e842cdd79e47a1b460479b59e4e" category="doc">使用BlueXP  警报</block>
-  <block id="9e8c1c9ce04126b867bd0693e89863b1" category="paragraph">使用BlueXP  警报、您可以通过直接指向System Manager的链接查看存储问题和详细信息。</block>
   <block id="80fa54cf61509d05cee17d35aa111523" category="inline-link-macro">从"Alerts"(警报)列表页面查看存储问题或潜在风险</block>
   <block id="bada944ff97ccc6bdb03a0eefe48c7b0" category="list-text"><block ref="100690e5bc3f66329368008c6eec575d" category="inline-link-macro-rx"></block>(英文)</block>
-  <block id="7bd1999eaf2368f9b8f1dd868f9e9d4d" category="inline-link-macro">查看System Manager中链接的警报详细信息</block>
-  <block id="71abcd292cc325c2b4ac5f4d9147224d" category="list-text"><block ref="71abcd292cc325c2b4ac5f4d9147224d" category="inline-link-macro-rx"></block></block>
   <block id="d0f2765e5de3103a5c432ec160dff29f" category="doc">了解BlueXP  警报</block>
   <block id="a9dc86219b3c5f9f2b66e9d377f29a7f" category="section-title">您可以对BlueXP  警报执行哪些操作</block>
   <block id="c455bdd92f069a5115cf088b2dabcacc" category="paragraph">BlueXP  警报服务可帮助您随时了解ONTAP存储环境中的风险或潜在风险。此服务会向您显示一些非EMS警报和一些EMS警报。BlueXP  警报服务可提供有关以下严重程度和影响方面的信息：</block>
@@ -271,12 +261,9 @@
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">开放源代码</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
   <block id="1c8c9500f35cf575beaf6a28dc62ccf5" category="summary">了解BlueXP  警报中的新增功能。</block>
-  <block id="30379f2eca857be65607378fb82b2e76" category="doc">发行说明：BlueXP  警报保护的新增功能</block>
   <block id="e5182edc3707e8e354c40ab7fa819f39" category="section-title">2024年10月7日</block>
   <block id="32981b0c6558eec412787b4c28c9f7a5" category="paragraph">此初始版本的BlueXP  警报包括以下功能：</block>
-  <block id="d75b9d6acc7b490b5df3a8425ace3e5a" category="list-text">* BlueXP  警报列表页面*：您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。</block>
   <block id="335c0f5b63e966d180738ce07c85dc3f" category="list-text">*警报详细信息*：您可以深入了解警报详细信息并查找建议。</block>
-  <block id="963a0580f34d0876630a188f398484de" category="list-text">*查看链接到System Manager*的集群详细信息：通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到NetApp System Manager的详细信息。</block>
   <block id="52db2fc7f4de1af0e1245bc3f891ce57" category="paragraph"><block ref="094e829cc75a913d98050fa15a3d0c12" category="inline-link-rx"></block>(英文)</block>
   <block id="65bb7ee15d3b1e07670d846d217c47d4" category="sidebar">BlueXP  警报文档</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
@@ -298,4 +285,18 @@
   <block id="a138b80b6963a03eb4d692dbdc025e3e" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中与容量、性能、保护、可用性和安全性相关的问题或潜在风险。通过此服务、您可以深入了解警报详细信息并查看链接到ONTAP系统管理器的集群信息。</block>
   <block id="164a30a809f9f6485699e82e4c81d60c" category="sidebar">BlueXP  警报是一项服务、可用于查看NetApp ONTAP环境中的问题或潜在风险。借助此服务、您可以使用ONTAP系统管理器深入了解警报详细信息并查看集群信息。</block>
   <block id="83e69dcb76418af8dc10c3db810ded80" category="paragraph">此服务只能在BlueXP  标准(公共)模式下部署。</block>
+  <block id="d63c2786beb521865505852c24d3bbc3" category="inline-link-macro">在ONTAP系统管理器中查看警报详细信息</block>
+  <block id="414ad1486187ff3c1de9f223f4a90b12" category="list-text"><block ref="e51d8f8d14c84f442ec45adf1927779a" category="inline-link-macro-rx"></block>(英文)</block>
+  <block id="a81101241f6ae4b53dda6f72078e1a84" category="summary">通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到ONTAP系统管理器的详细信息。</block>
+  <block id="4738ae4d419e1b8ae8c55bb48647f17b" category="section-title">在ONTAP系统管理器中查看有关集群的详细信息</block>
+  <block id="0bcbc2fded8f028c3e76ed1c185d666a" category="paragraph">ONTAP系统管理器现在可显示有关集群的信息。</block>
+  <block id="f39a613fdeea2d3366e1809a43f1990c" category="inline-image-macro">显示集群信息的ONTAP系统管理器</block>
+  <block id="e79f71128d9c0a151bba0d752c0cf2ba" category="paragraph"><block ref="e79f71128d9c0a151bba0d752c0cf2ba" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3a59778648f192d3c68a43974dd5338c" category="paragraph">使用BlueXP  警报、您可以通过直接指向ONTAP系统管理器的链接查看存储问题和详细信息。</block>
+  <block id="ad29d7223b052b52094346c5131f1f7e" category="inline-link-macro">查看ONTAP系统管理器中链接的警报详细信息</block>
+  <block id="7c6bc72b6c4331f5d897fabdaf57cdec" category="list-text"><block ref="7c6bc72b6c4331f5d897fabdaf57cdec" category="inline-link-macro-rx"></block></block>
+  <block id="515706dac8e783689b6183aa91b5dc74" category="doc">BlueXP  警报新增功能</block>
+  <block id="221e1ce85a4c0e9e170e711608695972" category="list-text">* BlueXP  警报列表页面*：您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。</block>
+  <block id="584c54dd31b512867535ecfbc6397a6f" category="list-text">*查看链接到System Manager*的集群详细信息：通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到ONTAP System Manager的详细信息。</block>
+  <block id="1dd7164ccb0d19b759cbac7ce9ee7183" category="sidebar">BlueXP  警报的新增功能</block>
 </blocks>

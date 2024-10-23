@@ -16,7 +16,9 @@ sidebar:
   - title: BlueXP  警报文档
     url: "/index.html"
   - title: 发行说明
-    url: "/whats-new.html"
+    entries:
+    - title: BlueXP  警报的新增功能
+      url: "/whats-new.html"
   - title: 开始使用
     entries:
     - title: 了解BlueXP  警报

@@ -28,5 +28,5 @@ link:alerts-start-setup.html["在BlueXP中配置连接器"](英文)
 
 [role="quick-margin-list"]
 * link:alerts-use-dashboard.html["在"Alerts"列表页面上查看存储问题和潜在风险"](英文)
-* link:alerts-use-alerts.html["在System Manager中查看警报详细信息"](英文)
+* link:alerts-use-alerts.html["在ONTAP系统管理器中查看警报详细信息"](英文)
 

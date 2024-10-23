@@ -4,7 +4,7 @@ permalink: whats-new.html
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
 summary: 了解BlueXP  警报中的新增功能。 
 ---
-= 发行说明：BlueXP  警报保护的新增功能
+= BlueXP  警报新增功能
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -24,7 +24,7 @@ summary: 了解BlueXP  警报中的新增功能。
 
 * * BlueXP  警报列表页面*：您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。
 * *警报详细信息*：您可以深入了解警报详细信息并查找建议。
-* *查看链接到System Manager*的集群详细信息：通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到NetApp System Manager的详细信息。
+* *查看链接到System Manager*的集群详细信息：通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到ONTAP System Manager的详细信息。
 
 
 https://docs.netapp.com/us-en/bluexp-alerts/concept-alerts.html["了解BlueXP  警报"](英文)

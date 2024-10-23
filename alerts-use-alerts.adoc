@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: alerts-use-alerts.html 
 keywords: alerts, ontap, netapp, system manager, bluexp 
-summary: 通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到BlueXP  系统管理器的详细信息。 
+summary: 通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到ONTAP系统管理器的详细信息。 
 ---
 = 查看ONTAP存储环境中的警报详细信息
 :hardbreaks:
@@ -28,14 +28,14 @@ image:alerts-detail.png["警报详细信息"]
 
 
 
-== 在BlueXP  系统管理器中查看有关集群的详细信息
+== 在ONTAP系统管理器中查看有关集群的详细信息
 
 . 从"Alerts"(警报)列表页面中、选择一个警报。
 . 在警报中、单击页面顶部的集群名称。
 +
-BlueXP  系统管理器现在可显示有关集群的信息。
+ONTAP系统管理器现在可显示有关集群的信息。
 
 +
-image:alerts-system-manager-cluster.png["显示集群信息的BlueXP  系统管理器"]
+image:alerts-system-manager-cluster.png["显示集群信息的ONTAP系统管理器"]
 
 
