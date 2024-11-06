@@ -1,24 +1,6 @@
----
-sidebar: sidebar 
-permalink: whats-new.html 
-keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
-summary: 了解BlueXP  警报中的新增功能。 
----
-= BlueXP  警报新增功能
-:hardbreaks:
+= BlueXP  警报列表页面
 :allow-uri-read: 
-:nofooter: 
-:icons: font
-:linkattrs: 
-:imagesdir: ./media/
 
-
-[role="lead"]
-了解BlueXP  警报中的新增功能。
-
-
-
-== 2024年10月7日
 
 
 

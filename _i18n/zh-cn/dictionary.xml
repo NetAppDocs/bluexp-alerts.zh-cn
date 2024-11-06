@@ -262,8 +262,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
   <block id="1c8c9500f35cf575beaf6a28dc62ccf5" category="summary">了解BlueXP  警报中的新增功能。</block>
   <block id="e5182edc3707e8e354c40ab7fa819f39" category="section-title">2024年10月7日</block>
-  <block id="32981b0c6558eec412787b4c28c9f7a5" category="paragraph">此初始版本的BlueXP  警报包括以下功能：</block>
-  <block id="335c0f5b63e966d180738ce07c85dc3f" category="list-text">*警报详细信息*：您可以深入了解警报详细信息并查找建议。</block>
   <block id="52db2fc7f4de1af0e1245bc3f891ce57" category="paragraph"><block ref="094e829cc75a913d98050fa15a3d0c12" category="inline-link-rx"></block>(英文)</block>
   <block id="65bb7ee15d3b1e07670d846d217c47d4" category="sidebar">BlueXP  警报文档</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
@@ -296,7 +294,9 @@
   <block id="ad29d7223b052b52094346c5131f1f7e" category="inline-link-macro">查看ONTAP系统管理器中链接的警报详细信息</block>
   <block id="7c6bc72b6c4331f5d897fabdaf57cdec" category="list-text"><block ref="7c6bc72b6c4331f5d897fabdaf57cdec" category="inline-link-macro-rx"></block></block>
   <block id="515706dac8e783689b6183aa91b5dc74" category="doc">BlueXP  警报新增功能</block>
-  <block id="221e1ce85a4c0e9e170e711608695972" category="list-text">* BlueXP  警报列表页面*：您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。</block>
-  <block id="584c54dd31b512867535ecfbc6397a6f" category="list-text">*查看链接到System Manager*的集群详细信息：通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到ONTAP System Manager的详细信息。</block>
-  <block id="1dd7164ccb0d19b759cbac7ce9ee7183" category="sidebar">BlueXP  警报的新增功能</block>
+  <block id="3108a0619eec0e2ef9c6c5bd796bbf0d" category="paragraph">您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。</block>
+  <block id="907b4f5ff0a11b28375c092b0b876c3e" category="section-title">警报详细信息</block>
+  <block id="2c132bb868e25bdbc509ab83d2436d71" category="paragraph">您可以深入了解警报详细信息并查找建议。</block>
+  <block id="b361027502c50a2e2c7efbe96a5720bf" category="section-title">查看链接到System Manager的集群详细信息</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
 </blocks>
