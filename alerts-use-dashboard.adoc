@@ -139,7 +139,7 @@ EMS警报：
 
 
 ====
-有关ONTAP警报的详细信息，请参阅上的ONTAP文档和System Manager洞察 https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["System Manager深入了解容量、安全性和配置问题"^]。
+有关ONTAP警报的详细信息，请参阅上的ONTAP文档和ONTAP System Manager洞察 https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["ONTAP System Manager深入了解容量、安全性和配置问题"^]。
 
 
 

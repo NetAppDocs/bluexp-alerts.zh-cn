@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: alerts-start-quick-start.html 
-keywords: how to get started with bluexp alerts, alerts quick start 
-summary: 只需几步即可开始使用NetApp BlueXP  警报服务。 
+keywords: how to get started with bluexp alerts, alerts quick start, netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
+summary: 只需几步即可开始使用BlueXP  警报服务。 
 ---
 = BlueXP  警报快速入门
 :hardbreaks:

@@ -60,7 +60,6 @@
   <block id="a66b5f7e17e36a58b03ec77382eb6743" category="list-text">该组织中使用组织管理Privileges发现资源的BlueXP  用户</block>
   <block id="801e5ac526198ee67b36c61b75c65eab" category="inline-link">标准BlueXP要求</block>
   <block id="5b4e347dbf978618d47c067b87ad3fe2" category="list-text"><block ref="5b4e347dbf978618d47c067b87ad3fe2" category="inline-link-rx"></block></block>
-  <block id="e9b7b72938a53a4398858e7a161efbfb" category="summary">只需几步即可开始使用NetApp BlueXP  警报服务。</block>
   <block id="4693ecf07b719f1a075e0e08b806e1d6" category="doc">BlueXP  警报快速入门</block>
   <block id="6d3b1e3c658d935abf3a5e7434bd4c1b" category="paragraph">下面概述了开始使用BlueXP  警报所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">一个</block>
@@ -200,8 +199,6 @@
   <block id="787c13bd5678ea2fd13caed9c3d7f793" category="list-text">卷自动调整大小成功</block>
   <block id="70e7847ce31f3a07ce7dbe2cac0c55bf" category="list-text">卷脱机</block>
   <block id="d963b659cc2c03f1af4ded1f17740e4f" category="list-text">卷受限</block>
-  <block id="e60fdbc6a294498300f49aa127139a42" category="inline-link">System Manager深入了解容量、安全性和配置问题</block>
-  <block id="aa234240d0a0cda8353d19805476de1b" category="paragraph">有关ONTAP警报的详细信息，请参阅上的ONTAP文档和System Manager洞察<block ref="b77ce041c81545bf6290dc1fe3f366a7" category="inline-link-rx"></block>。</block>
   <block id="62ee36e144821eacbed3c81b0f0497c8" category="section-title">查看ONTAP存储问题</block>
   <block id="069f2dbaf4ab6cd3493075c1ed095e12" category="paragraph">发现后、"Alerts"(警报)列表页面将显示ONTAP环境中的警报列表。</block>
   <block id="c4e8a37d21324f2e04c75f3371485f1f" category="paragraph">发生事件与BlueXP  警报显示事件之间可能存在延迟。</block>
@@ -227,7 +224,6 @@
   <block id="89658a5893663786a5a3b0365a186901" category="paragraph">BlueXP  警报具有以下优势：</block>
   <block id="f7e430f46106032cfbe3b93ecd7ffbf8" category="list-text">跨集群获取有关ONTAP存储的警报。</block>
   <block id="c036c9564723f87e6682ea3f542c999a" category="list-text">在用于其他服务的同一BlueXP  UI中查看警报。</block>
-  <block id="811073dacb65f03c311b21e5d5357881" category="list-text">深入了解ONTAP集群上的警报—从BlueXP  警报开始、然后在NetApp系统管理器中查看详细信息。</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
   <block id="82cf93c6b22e730b302286dee304e8cc" category="paragraph">完整版本的BlueXP  警报可与NetApp ONTAP许可证结合使用。</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">许可</block>
@@ -297,6 +293,10 @@
   <block id="3108a0619eec0e2ef9c6c5bd796bbf0d" category="paragraph">您可以快速识别容量低或性能低的ONTAP集群、评估可用性范围并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。</block>
   <block id="907b4f5ff0a11b28375c092b0b876c3e" category="section-title">警报详细信息</block>
   <block id="2c132bb868e25bdbc509ab83d2436d71" category="paragraph">您可以深入了解警报详细信息并查找建议。</block>
-  <block id="b361027502c50a2e2c7efbe96a5720bf" category="section-title">查看链接到System Manager的集群详细信息</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="9ba3a5a376a4241ee4847ae13742a741" category="section-title">查看链接到ONTAP系统管理器的集群详细信息</block>
+  <block id="a4598a7400565176f635033fb26b11d1" category="summary">只需几步即可开始使用BlueXP  警报服务。</block>
+  <block id="79f36a1cf2d28dc09a5c06d96f5fc526" category="inline-link">ONTAP System Manager深入了解容量、安全性和配置问题</block>
+  <block id="b433a03cbe41f57ebb306c3f7c73f769" category="paragraph">有关ONTAP警报的详细信息，请参阅上的ONTAP文档和ONTAP System Manager洞察<block ref="54212393114a0de7994bf970936414f9" category="inline-link-rx"></block>。</block>
+  <block id="5dd402ee76aade36a9da6304ebc2bd25" category="list-text">深入了解ONTAP集群上的警报—从BlueXP  警报开始、然后在ONTAP系统管理器中查看详细信息。</block>
 </blocks>

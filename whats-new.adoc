@@ -34,7 +34,7 @@ summary: 了解BlueXP  警报中的新增功能。
 
 
 
-=== 查看链接到System Manager的集群详细信息
+=== 查看链接到ONTAP系统管理器的集群详细信息
 
 通过BlueXP  警报、您可以查看与ONTAP存储环境关联的警报、并深入查看链接到ONTAP系统管理器的详细信息。
 
